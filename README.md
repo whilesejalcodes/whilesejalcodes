@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sejal Thakur💖.</h1>
 <h3 align="center">ECE + AI undergrad @ IGDTUW | Exploring Web Dev & Data Science | Tech enthusiast learning AI, web dev & all things code | ⋆.𐙚 ̊</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/33/3b/7b/333b7b2a74a0489db93b38bb93065934.jpg">
+<img align="right" alt="Coding" width="400" height="350" src="https://i.pinimg.com/736x/33/3b/7b/333b7b2a74a0489db93b38bb93065934.jpg">
 
 <p align="left"> <a href="https://twitter.com/sejnotfound" target="blank"><img src="https://img.shields.io/twitter/follow/sejnotfound?logo=twitter&style=for-the-badge" alt="sejnotfound" /></a> </p>
 
