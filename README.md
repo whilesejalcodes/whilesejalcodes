@@ -1,6 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100%">
+<!--img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"-->
+<img src="https://i.pinimg.com/1200x/1d/62/32/1d6232c38a982883e69aafe5f2ede4e8.jpg" width="100%">
 
 <h1 align="center">Hi 👋, I'm Sejal Thakur.💖</h1>
 <h3 align="center">ECE + AI undergrad @ IGDTUW | Exploring Web Dev & Data Science | Tech enthusiast learning AI, web dev & all things code | ⋆.𐙚 ̊</h3>
