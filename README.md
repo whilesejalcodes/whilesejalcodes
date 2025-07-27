@@ -2,7 +2,7 @@
 <h3 align="center">ECE + AI undergrad @ IGDTUW | Exploring Web Dev & Data Science | Tech enthusiast learning AI, web dev & all things code | ⋆.𐙚 ̊</h3>
 <img align="right" alt="Coding" width="350" height="300" src="https://i.pinimg.com/736x/33/3b/7b/333b7b2a74a0489db93b38bb93065934.jpg">
 # 💫 About Me:
-- 📫 How to reach me **sejal.thakur0124@gmail.com**<br><br>- ⚡ Fun fact  : 🌙 I debug better at midnight than I do during the day.<br>
+- 📫 How to reach me sejal.thakur0124@gmail.com<br><br>- ⚡ Fun fact  : 🌙 I debug better at midnight than I do during the day.<br>
 
 
 ## 🌐 Socials:
