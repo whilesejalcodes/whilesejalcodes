@@ -1,3 +1,6 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://rishavchanda.io)
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
+
 <h1 align="center">Hi 👋, I'm Sejal Thakur.💖</h1>
 <h3 align="center">ECE + AI undergrad @ IGDTUW | Exploring Web Dev & Data Science | Tech enthusiast learning AI, web dev & all things code | ⋆.𐙚 ̊</h3>
 <img align="right" alt="Coding" width="350" height="300" src="https://i.pinimg.com/736x/33/3b/7b/333b7b2a74a0489db93b38bb93065934.jpg">
