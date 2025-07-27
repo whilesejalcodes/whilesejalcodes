@@ -8,7 +8,6 @@
 <h3>💫 About Me:</h3>
 📫 How to reach me : sejal.thakur0124@gmail.com<br>⚡ Fun fact  : 🌙 I debug better at midnight than I do during the day.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sejalthakur24) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sejnotfound) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejal.thakur0124@gmail.com) 
 
