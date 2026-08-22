@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Sejal Thakur.💖</h1>
 <h3 align="center">ECE + AI undergrad @ IGDTUW | Exploring Web Dev & Data Science | Tech enthusiast learning AI, web dev & all things code | ⋆.𐙚 ̊</h3>
 <img align="right" alt="Coding" width="350" height="300" src="https://i.pinimg.com/736x/33/3b/7b/333b7b2a74a0489db93b38bb93065934.jpg">
-# 💫 About Me:
 ✨About Me:<br>📫 How to reach me: sejal.thakur0124@gmail.com<br>💻 Currently learning: DSA, AI/ML & full-stack development<br>🌙 Fun fact: My best debugging sessions happen after midnight.
 
 
